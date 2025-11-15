@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8fbc17dc-a755-4377-bd9e-4f6b3fa7731f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/rafimiazi/dsa/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rafimiazi/dsa/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/rafimiazi/dsa/phase00_setup/collections/linkedlist/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rafimiazi/dsa/phase00_setup/collections/linkedlist/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/rafimiazi/dsa/phase00_setup/collections/linkedlist/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rafimiazi/dsa/phase00_setup/collections/linkedlist/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rafimiazi/dsa/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/rafimiazi/dsa/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rafimiazi/dsa/phase00_setup/collections/linkedlist/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/rafimiazi/dsa/phase00_setup/collections/linkedlist/LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rafimiazi/dsa/phase00_setup/collections/linkedlist/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/rafimiazi/dsa/phase00_setup/collections/linkedlist/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.rafimiazi.dsa.MainTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.rafimiazi.dsa.MainTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.rafimiazi.dsa.MainTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.rafimiazi.dsa.MainTest.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="34uAQyZqF8b8LiDxxc6F4mHrY8I" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.LinkedListTest.check.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="LinkedListTest.check" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dsa_codes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rafimiazi.dsa.phase00_setup.collections.linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.rafimiazi.dsa.phase00_setup.collections.linkedlist" />
+      <option name="MAIN_CLASS_NAME" value="com.rafimiazi.dsa.phase00_setup.collections.linkedlist.LinkedListTest" />
+      <option name="METHOD_NAME" value="check" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LinkedListTest.check" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-84258761d1cc-intellij.indexing.shared.core-IU-243.28141.18" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.28141.18" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8fbc17dc-a755-4377-bd9e-4f6b3fa7731f" name="Changes" comment="" />
+      <created>1762053079142</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762053079142</updated>
+      <workItem from="1762053082983" duration="273000" />
+      <workItem from="1762053382687" duration="406000" />
+      <workItem from="1762053839368" duration="690000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

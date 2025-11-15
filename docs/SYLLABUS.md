@@ -4,6 +4,7 @@
 ---
 
 ## Phase 0 — Setup & Java Foundations for DSA
+- [ ] Testing
 - [ ] Java Collections overview
   - [ ] ArrayList / LinkedList / Deque / ArrayDeque
   - [ ] Stack / Queue / PriorityQueue

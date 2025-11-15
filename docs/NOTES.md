@@ -3,6 +3,42 @@
 ---
 
 ## Phase 0 — Setup & Java Foundations for DSA
+### **0.0 Testing:**
+
+using CalculatorTest.java inside testing.
+use assertj for better logging details.
+
+0.0.1: parameterized test
+    flag: `@parameterizedTest`
+    argument sources:
+
+     `@ValueSource( Annotation = {var1, var2, var3.... etc} );`
+| Annotation Parameter | Type     | Example                        |
+|----------------------|----------|--------------------------------|
+| strings              | String[] | {"hello", "world", "JUnit"}    |
+| ints                 | int[]    | {1, 5, 100}                     |
+| doubles              | double[] | {1.0, 5.5, 9.9}                 |
+
+    `@ParameterizedTest
+    @CsvSource({
+        "1,2,3",
+        "2,3,5",
+        "3,4,8"
+    })
+
+    void testAdd (int a, int b, int res) {}`
+
+
+
+    ` @CsvFileSource(resources = "/data.csv", numLinesToSkip = 1)`
+    need to put the csv file inside test/resources/data.csv
+    see code      
+
+    #### Mockito: used to mock or replicate objects : mimicks the outputs of the mocked object that is used to test a dependent method.
+       
+
+
+
 0.1 Java Collections overview  
  0.1.1 ArrayList / LinkedList / Deque / ArrayDeque  
  0.1.2 Stack / Queue / PriorityQueue  
@@ -12,7 +48,7 @@
 0.3 Fast I/O; `StringBuilder` vs `String`  
 0.4 JUnit basics; assertions; property tests  
 0.5 Profiling & benchmarking (JMH)  
-0.6 Build tools: Gradle/Maven; IDE debugging; Git basics  
+0.6 Build tools: Gradle/Mave n; IDE debugging; Git basics  
 
 ---
 
